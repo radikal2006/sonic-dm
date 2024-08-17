@@ -8,14 +8,20 @@
 sudo apt update
 sudo apt install -y nodejs npm
 ```
+**1.2 نصب Git**
+```
+sudo apt update
+sudo apt install git
+```
 **بررسی نصب:**
 ```
 node -v
 npm -v
 ```
-**2. ایجاد پوشه پروژه و ورود به آن:**
+**2. کلون کردن پروژه:**
 ```
-mkdir my-solana-project
+git clone https://github.com/username/repository.git
+
 cd my-solana-project
 ```
 **3. راه‌اندازی npm و ایجاد فایل package.json:**
