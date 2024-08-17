@@ -88,3 +88,9 @@ screen -S sonicdm
 node multiWalletTransfer.js
 ```
 تمام...
+**آیدی دآشتون :**
+
+
+
+🔸https://t.me/Radikal1_2006🪂
+🔸https://x.com/ZKRadikal🪂
