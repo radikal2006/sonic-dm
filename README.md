@@ -4,10 +4,10 @@
 و شما فقط روزانه باید برید و باکس هارو کلایم کنید
 
 **1. نصب Node.js و npm**
-`
+```
 sudo apt update
 sudo apt install -y nodejs npm
-`
+```
 **بررسی نصب:**
 `node -v
 npm -v`
