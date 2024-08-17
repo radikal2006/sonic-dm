@@ -13,6 +13,11 @@ sudo apt install -y nodejs npm
 sudo apt update
 sudo apt install git
 ```
+**1.3 نصب اسکرین**
+```
+sudo apt update
+sudo apt install screen
+```
 **بررسی نصب:**
 ```
 node -v
@@ -20,9 +25,9 @@ npm -v
 ```
 **2. کلون کردن پروژه:**
 ```
-git clone https://github.com/username/repository.git
+git clone https://github.com/radikal2006/sonic-dm.git
 
-cd my-solana-project
+cd sonic-dm
 ```
 **3. راه‌اندازی npm و ایجاد فایل package.json:**
 ```
@@ -60,7 +65,12 @@ RECIPIENTS=recipient1,recipient2,recipient3
 TRANSFER_AMOUNT=1000000
 RPC_URL=https://devnet.sonic.game
 ```
+**ساخت اسکرین**
+```
+screen -S sonicdm
+```
 **اجرای اسکریپت**
 ```
 node multiWalletTransfer.js
 ```
+تمام...
