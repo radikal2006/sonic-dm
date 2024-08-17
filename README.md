@@ -94,3 +94,8 @@ node multiWalletTransfer.js
 
 🔸https://t.me/Radikal1_2006🪂
 🔸https://x.com/ZKRadikal🪂
+
+یه سرهم به کانالمون بزنید ، ضرر نمیکنید🤫
+
+
+🔸 https://t.me/crypttopiaa 🪂
