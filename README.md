@@ -7,13 +7,14 @@
 چندتا ولت solona ترجیحا با کیف پول backpack بسازید...
  
 **لینک سایت**
+
 https://odyssey.sonic.game/?join=FgKoFp
-س
+
 داخل سایت لاگین کنید 
 اینجا فاست بگیرید براشو
 **لینک فاست**
 https://faucet.sonic.game/#/
-0
+
 **1. نصب Node.js و npm**
 ```
 sudo apt update
