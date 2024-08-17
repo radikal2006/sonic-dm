@@ -5,11 +5,14 @@
 و شما فقط روزانه باید برید و باکس هارو کلایم کنید
 
 چندتا ولت solona ترجیحا با کیف پول backpack بسازید...
+0
 https://odyssey.sonic.game/?join=FgKoFp
+0
 داخل سایت لاگین کنید 
-اینجا فاست بگیرید براشون
+اینجا فاست بگیرید براشو
+0
 https://faucet.sonic.game/#/
-
+0
 **1. نصب Node.js و npm**
 ```
 sudo apt update
