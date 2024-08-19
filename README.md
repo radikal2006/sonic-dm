@@ -79,6 +79,7 @@ RECIPIENTS=recipient1,recipient2,recipient3
 TRANSFER_AMOUNT=1000000
 RPC_URL=https://devnet.sonic.game
 ```
+بعد از کامل کردن فایل .env ، دکمه کنترل + x رو بزنید و بعد کنترل + y و بعد اینتر تا سیو بشه
 **ساخت اسکرین**
 ```
 screen -S sonicdm
