@@ -87,6 +87,7 @@ screen -S sonicdm
 ```
 node multiWalletTransfer.js
 ```
+بعد کنترل A بعد D رو بگیرید تا از اسکرین خارج شه
 تمام...
 **آیدی دآشتون :**
 
