@@ -96,7 +96,7 @@ node come-down.js
 ```
 3 با این کد 
 ```
-Genius-tx.js
+node genius-tx.js
 ```
 
 حالا تفاوتشون چیه؟
